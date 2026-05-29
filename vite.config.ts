@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/monitorbudget/', // <-- Tambahkan baris ini
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
