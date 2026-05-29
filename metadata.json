@@ -1,0 +1,6 @@
+{
+  "name": "Aftersales Tunas Rent , Budget Maintenance",
+  "description": "Aftersales Tunas Rent Budget Maintenance tracking software. Handles regional SLAs, custom ATPM / aftersales note forms, and multi-user dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
